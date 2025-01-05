@@ -1,4 +1,4 @@
-# Virtual Machine Setup Guide
+# GAT-RISC-V-Roadshow
 
 This repository provides step-by-step instructions to set up and run a virtual machine using a preconfigured VDI file.
 
