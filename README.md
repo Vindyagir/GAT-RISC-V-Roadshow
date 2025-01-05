@@ -42,11 +42,14 @@ Set OS type to Linux, version Ubuntu 18.04.
 
 5.Complete the setup and start the VM.
 
-###Usage
+**Usage**
 Once the virtual machine boots up, you can use it like a physical computer inside a virtual environment.
 References
+
 Oracle VirtualBox Official Site
+
 VDI File Download
+
 javascript
 Copy code
 
